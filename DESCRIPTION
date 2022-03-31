@@ -1,0 +1,18 @@
+Package: electricity
+Title: Hourly Electricity Consumption Data
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = "Daniel",
+           family = "Falbel",
+           role = c("aut", "cre"),
+           email = "daniel@rstudio.com"),
+    person(family = "RStudio", role = c("cph")))
+Description: Includes a dataset containing hourly energy consumption data
+  of 370 clients. All time labels report to Portuguese hour.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
