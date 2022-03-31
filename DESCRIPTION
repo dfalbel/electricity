@@ -16,3 +16,5 @@ RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)
 LazyData: true
+URL: https://github.com/dfalbel/electricity
+BugReports: https://github.com/dfalbel/electricity/issues
