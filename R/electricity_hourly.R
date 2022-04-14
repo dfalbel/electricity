@@ -10,5 +10,4 @@
 #' @examples
 #' library(electricity)
 #' str(electricity_hourly)
-#' @export
 "electricity_hourly"
